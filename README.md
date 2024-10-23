@@ -7,7 +7,7 @@ The dataset contains brain MRI images categorized into two classes:
 * Yes: Tumorous MRI scans (155 images)
 * No: Non-tumorous MRI scans (98 images)
 
-* #### Data Augmentation : 
+#### Data Augmentation : 
 
 The dataset contains 2 folders: yes and no, which hold 253 Brain MRI images. The yes folder contains 155 MRI images of tumorous brains, while the no folder contains 98 MRI images of non-tumorous brains. Since the dataset is small and imbalanced (61% tumorous and 39% non-tumorous), data augmentation was used to generate additional images, which not only increased the dataset size but also helped to balance the two classes. Data augmentation techniques were applied to generate synthetic images by performing transformations like rotations, flips, brightness adjustments, and more. 
 Augmentation Techniques:
