@@ -2,7 +2,7 @@
 
 This project utilizes a Convolutional Neural Network (CNN) to detect brain tumors from MRI images. The model is trained on a dataset of MRI scans categorized as "tumorous" or "non-tumorous" and applies various preprocessing steps, including cropping and normalization, to enhance the learning process.
 
-### About the Dataset : 
+### * About the Dataset : 
 The dataset contains brain MRI images categorized into two classes:
 * Yes: Tumorous MRI scans (155 images)
 * No: Non-tumorous MRI scans (98 images)
