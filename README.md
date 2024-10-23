@@ -56,7 +56,7 @@ Training can be monitored through TensorBoard for loss and accuracy visualizatio
 ### 6. Results
 After training, the model achieves the following results on the test set:
 
-Validation Accuracy: 88%
-Test Accuracy: 88%
-Validation F1 Score: 89%
+Validation Accuracy: 88% <br>
+Test Accuracy: 88% <br>
+Validation F1 Score: 89% <br>
 Test F1 Score : 90%
