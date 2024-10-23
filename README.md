@@ -1,6 +1,6 @@
 ## Brain-Tumour-Detection-using-CNN
 
-#### Now, the model detects brain tumor with:<br>
-**88.7%** accuracy on the **test set**.<br>
-**0.88** f1 score on the **test set**.<br>
-These resutls are very good considering that the data is balanced.
+About the Dataset
+The dataset contains brain MRI images categorized into two classes:
+* Yes: Tumorous MRI scans (155 images)
+* No: Non-tumorous MRI scans (98 images)
