@@ -24,6 +24,7 @@ Summary of Augmented Data:
 * Total examples after augmentation: 2064 images
 * Percentage of tumorous examples: 52.57% (1085 images)
 * Percentage of non-tumorous examples: 47.43% (979 images)
+
 This augmented dataset is now ready to be used for training a convolutional neural network (CNN).
 
 ### 2. Installation : 
